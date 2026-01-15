@@ -1,5 +1,12 @@
-## Hi there 👋
+# PeriodicBrake63:
+## Abilities
+### Somehow mess up a = 1
+Other than that i can do:
 
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,vite,nodejs,html,css,php,python,discord,cs,cpp,arduino,git,vscode,visualstudio,unity,blender,kali,arch,rust&perline=10)](https://skillicons.dev)
+
+## Contact:
+not yet lmao
 <!--
 **PeriodicBrake63/PeriodicBrake63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
