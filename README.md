@@ -1,4 +1,4 @@
-# Hi, I'm periodicbrake
+# Hi, I'm Mael (pls call me periodicbrake)
 
 ### anything developer
 
