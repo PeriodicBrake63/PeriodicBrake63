@@ -1,5 +1,3 @@
-# Srry, too lazy for a profiile...
+# Yeah if you're ever gonna judge my codebases, at least don't do it here
 ---
-I made [hollowdex](https://hollowdex.periodicbrake.fr), i think that's it...
-
--# i will make a better profile in the future dw
+## https://git.periodicbrake.fr
